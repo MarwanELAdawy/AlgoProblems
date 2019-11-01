@@ -1,0 +1,5 @@
+/media/marwan/Win/Users/marwa/Desktop/Assignment-3/[2] Find the Root/FindTheRoot/FindTheRoot/bin/Debug/FindTheRoot.exe
+/media/marwan/Win/Users/marwa/Desktop/Assignment-3/[2] Find the Root/FindTheRoot/FindTheRoot/bin/Debug/FindTheRoot.pdb
+/media/marwan/Win/Users/marwa/Desktop/Assignment-3/[2] Find the Root/FindTheRoot/FindTheRoot/obj/Debug/FindTheRoot.csprojAssemblyReference.cache
+/media/marwan/Win/Users/marwa/Desktop/Assignment-3/[2] Find the Root/FindTheRoot/FindTheRoot/obj/Debug/FindTheRoot.exe
+/media/marwan/Win/Users/marwa/Desktop/Assignment-3/[2] Find the Root/FindTheRoot/FindTheRoot/obj/Debug/FindTheRoot.pdb

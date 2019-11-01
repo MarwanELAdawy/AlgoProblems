@@ -1,0 +1,16 @@
+/media/marwan/Win/Users/marwa/Desktop/Assignment-3/[1] Currency Exchange/CurrencyExchange/CurrencyExchange/bin/Debug/inout.txt
+/media/marwan/Win/Users/marwa/Desktop/Assignment-3/[1] Currency Exchange/CurrencyExchange/CurrencyExchange/bin/Debug/sample.txt
+/media/marwan/Win/Users/marwa/Desktop/Assignment-3/[1] Currency Exchange/CurrencyExchange/CurrencyExchange/bin/Debug/CurrencyExchange.exe.config
+/media/marwan/Win/Users/marwa/Desktop/Assignment-3/[1] Currency Exchange/CurrencyExchange/CurrencyExchange/bin/Debug/CurrencyExchange.exe
+/media/marwan/Win/Users/marwa/Desktop/Assignment-3/[1] Currency Exchange/CurrencyExchange/CurrencyExchange/bin/Debug/CurrencyExchange.pdb
+/media/marwan/Win/Users/marwa/Desktop/Assignment-3/[1] Currency Exchange/CurrencyExchange/CurrencyExchange/obj/Debug/CurrencyExchange.csprojAssemblyReference.cache
+/media/marwan/Win/Users/marwa/Desktop/Assignment-3/[1] Currency Exchange/CurrencyExchange/CurrencyExchange/obj/Debug/CurrencyExchange.exe
+/media/marwan/Win/Users/marwa/Desktop/Assignment-3/[1] Currency Exchange/CurrencyExchange/CurrencyExchange/obj/Debug/CurrencyExchange.pdb
+C:\Users\marwa\Desktop\Assignment-3\[1] Currency Exchange\CurrencyExchange\CurrencyExchange\bin\Debug\inout.txt
+C:\Users\marwa\Desktop\Assignment-3\[1] Currency Exchange\CurrencyExchange\CurrencyExchange\bin\Debug\sample.txt
+C:\Users\marwa\Desktop\Assignment-3\[1] Currency Exchange\CurrencyExchange\CurrencyExchange\bin\Debug\CurrencyExchange.exe.config
+C:\Users\marwa\Desktop\Assignment-3\[1] Currency Exchange\CurrencyExchange\CurrencyExchange\bin\Debug\CurrencyExchange.exe
+C:\Users\marwa\Desktop\Assignment-3\[1] Currency Exchange\CurrencyExchange\CurrencyExchange\bin\Debug\CurrencyExchange.pdb
+C:\Users\marwa\Desktop\Assignment-3\[1] Currency Exchange\CurrencyExchange\CurrencyExchange\obj\Debug\CurrencyExchange.csproj.CoreCompileInputs.cache
+C:\Users\marwa\Desktop\Assignment-3\[1] Currency Exchange\CurrencyExchange\CurrencyExchange\obj\Debug\CurrencyExchange.exe
+C:\Users\marwa\Desktop\Assignment-3\[1] Currency Exchange\CurrencyExchange\CurrencyExchange\obj\Debug\CurrencyExchange.pdb
